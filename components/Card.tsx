@@ -34,7 +34,8 @@ const Card = () => {
         </Typography>
 
         <Typography sx={{fontSize:"1.3125rem", marginBottom:"1.5rem"}}>
-            "Front-end Developer and Avid Gamer"
+        &quot;Front-end Developer and Avid Reader&quot;
+
         </Typography>
 
         {
